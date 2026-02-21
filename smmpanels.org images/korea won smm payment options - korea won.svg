@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 220.17 220.17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="32.24" y1="-640.8" x2="187.93" y2="-796.48" gradientTransform="translate(0 -608.56) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8da30"/>
+      <stop offset="1" stop-color="#fdab22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="53.14" y1="-647.91" x2="178.64" y2="-773.41" gradientTransform="translate(0 -608.56) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dd7707"/>
+      <stop offset="1" stop-color="#b76800"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g id="Won">
+        <circle id="background" class="cls-2" cx="110.09" cy="110.09" r="110.09"/>
+        <path class="cls-1" d="M168.4,113.87h-13l1.96-7.31h11.03c3.42,0,6.19-2.77,6.19-6.19,0-3.42-2.77-6.18-6.19-6.19h-7.71l9.06-33.68c.89-3.3-1.07-6.7-4.37-7.58-3.3-.89-6.7,1.07-7.58,4.37h0l-9.92,36.9h-22.39l-9.41-36.82c-.7-2.74-3.17-4.65-5.99-4.65-2.83,0-5.29,1.92-5.99,4.66l-9.39,36.82h-22.34l-9.91-36.9c-.89-3.3-4.28-5.26-7.58-4.37-3.3.89-5.26,4.28-4.37,7.58h0l9.03,33.68h-7.76c-3.42,0-6.19,2.77-6.19,6.19,0,3.42,2.77,6.19,6.19,6.19h11.11l1.96,7.31h-13.06c-3.42,0-6.19,2.77-6.19,6.19,0,3.42,2.77,6.18,6.19,6.19h16.39l9.83,36.62c.73,2.7,3.18,4.58,5.98,4.58h.04c2.81-.02,5.26-1.93,5.96-4.66l9.32-36.55h21.62l9.34,36.55c.7,2.73,3.15,4.64,5.96,4.66h.04c2.8,0,5.25-1.88,5.97-4.58l9.85-36.62h16.34c3.42,0,6.19-2.77,6.19-6.19,0-3.42-2.77-6.18-6.19-6.19h-.02ZM142.6,113.87h-12.07l-1.87-7.31h15.91l-1.97,7.31ZM115.89,106.56l1.87,7.31h-15.31l1.86-7.31h11.58ZM110.09,83.92l2.63,10.28h-5.25l2.62-10.28ZM75.68,106.57h15.85l-1.86,7.31h-12.04l-1.94-7.31ZM83.81,136.83l-2.84-10.58h5.54l-2.7,10.58ZM136.4,136.87l-2.72-10.62h5.57l-2.85,10.62Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128.01 207.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        mask: url(#mask);
+      }
+
+      .cls-3 {
+        fill: url(#Adsız_degrade_2-2);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-8 {
+        fill: url(#Adsız_degrade_2);
+      }
+
+      .cls-9 {
+        fill: url(#Adsız_degrade_7);
+      }
+
+      .cls-5, .cls-10 {
+        fill: #1c60dd;
+      }
+
+      .cls-11 {
+        filter: url(#alpha-8);
+      }
+
+      .cls-12 {
+        filter: url(#alpha-9);
+      }
+
+      .cls-13 {
+        filter: url(#alpha-2);
+      }
+
+      .cls-14 {
+        filter: url(#alpha-3);
+      }
+
+      .cls-15 {
+        filter: url(#alpha-4);
+      }
+
+      .cls-16 {
+        filter: url(#alpha-6);
+      }
+
+      .cls-17 {
+        filter: url(#alpha-5);
+      }
+
+      .cls-18 {
+        filter: url(#alpha-7);
+      }
+
+      .cls-19 {
+        isolation: isolate;
+      }
+
+      .cls-20 {
+        mask: url(#mask-2);
+      }
+
+      .cls-21 {
+        mask: url(#mask-3);
+      }
+
+      .cls-22 {
+        mask: url(#mask-4);
+      }
+
+      .cls-23 {
+        mask: url(#mask-5);
+      }
+
+      .cls-24 {
+        mask: url(#mask-7);
+      }
+
+      .cls-25 {
+        mask: url(#mask-6);
+      }
+
+      .cls-26 {
+        mask: url(#mask-1);
+      }
+
+      .cls-27 {
+        mask: url(#mask-9);
+      }
+
+      .cls-28 {
+        mask: url(#mask-8);
+      }
+
+      .cls-29 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-30 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-31 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-33 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-34 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-35 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-36 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-37 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-38 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-39 {
+        clip-path: url(#clippath-31);
+      }
+
+      .cls-40 {
+        clip-path: url(#clippath-32);
+      }
+
+      .cls-41 {
+        clip-path: url(#clippath-33);
+      }
+
+      .cls-42 {
+        clip-path: url(#clippath-34);
+      }
+
+      .cls-43 {
+        clip-path: url(#clippath-39);
+      }
+
+      .cls-44 {
+        clip-path: url(#clippath-26);
+      }
+
+      .cls-45 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-46 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-47 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-48 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-49 {
+        clip-path: url(#clippath-24);
+      }
+
+      .cls-50 {
+        clip-path: url(#clippath-25);
+      }
+
+      .cls-51 {
+        clip-path: url(#clippath-41);
+      }
+
+      .cls-52 {
+        clip-path: url(#clippath-42);
+      }
+
+      .cls-53 {
+        clip-path: url(#clippath-43);
+      }
+
+      .cls-54 {
+        clip-path: url(#clippath-44);
+      }
+
+      .cls-55 {
+        clip-path: url(#clippath-45);
+      }
+
+      .cls-56 {
+        clip-path: url(#clippath-49);
+      }
+
+      .cls-57 {
+        clip-path: url(#clippath-40);
+      }
+
+      .cls-58 {
+        clip-path: url(#clippath-46);
+      }
+
+      .cls-59 {
+        clip-path: url(#clippath-47);
+      }
+
+      .cls-60 {
+        clip-path: url(#clippath-48);
+      }
+
+      .cls-61 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-62 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-63 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-64 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-65 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-66 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-67 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-68 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-69 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-6 {
+        fill: #b0b5be;
+      }
+
+      .cls-70 {
+        filter: url(#alpha);
+      }
+
+      .cls-71 {
+        filter: url(#alpha-10);
+      }
+
+      .cls-72 {
+        filter: url(#alpha-11);
+      }
+
+      .cls-73 {
+        filter: url(#alpha-12);
+      }
+
+      .cls-74 {
+        opacity: .9;
+      }
+
+      .cls-75 {
+        opacity: .7;
+      }
+
+      .cls-76 {
+        opacity: .5;
+      }
+
+      .cls-77 {
+        opacity: .2;
+      }
+
+      .cls-78 {
+        opacity: .3;
+      }
+
+      .cls-7 {
+        fill: #c0c9d7;
+      }
+
+      .cls-79 {
+        mask: url(#mask-10);
+      }
+
+      .cls-80 {
+        mask: url(#mask-11);
+      }
+
+      .cls-81 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x=".73" y="40.01" width="46.48" height="58.82"/>
+    </clipPath>
+    <filter id="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask" x="0" y="-.04" width="881.43" height="216.24" maskUnits="userSpaceOnUse">
+      <g id="mask0">
+        <g class="cls-70">
+          <rect class="cls-76" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" y="39.14" width="48.14" height="60.46"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x=".73" y="40.01" width="46.48" height="58.82"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-1" x="20" y="57.97" width="45.83" height="56.83"/>
+    </clipPath>
+    <filter id="alpha-2" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-1" x="0" y="-.04" width="881.43" height="216.24" maskUnits="userSpaceOnUse">
+      <g id="mask1">
+        <g class="cls-13">
+          <rect class="cls-75" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-4">
+      <rect class="cls-1" x="19.03" y="57.06" width="47.02" height="58.22"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-1" x="20" y="57.97" width="45.83" height="56.83"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-1" x="44.96" y="76.29" width="40.75" height="53.38"/>
+    </clipPath>
+    <filter id="alpha-3" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-2" x="0" y="-.04" width="881.43" height="216.24" maskUnits="userSpaceOnUse">
+      <g id="mask2">
+        <g class="cls-14">
+          <rect class="cls-74" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-7">
+      <rect class="cls-1" x="44.78" y="76.09" width="41.42" height="53.74"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-1" x="44.96" y="76.29" width="40.75" height="53.38"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-1" x="61.84" y="17.21" width="22.4" height="43.2"/>
+    </clipPath>
+    <filter id="alpha-4" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-3" x="0" y="-.04" width="881.43" height="216.24" maskUnits="userSpaceOnUse">
+      <g id="mask3">
+        <g class="cls-15">
+          <rect class="cls-76" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-10">
+      <rect class="cls-1" x="61.58" y="16.75" width="23.51" height="43.66"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-1" x="61.84" y="17.21" width="22.4" height="43.2"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-1" x="80.08" y="35.94" width="22.52" height="43.63"/>
+    </clipPath>
+    <filter id="alpha-5" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-4" x="0" y="-.04" width="881.43" height="216.24" maskUnits="userSpaceOnUse">
+      <g id="mask4">
+        <g class="cls-17">
+          <rect class="cls-75" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-13">
+      <rect class="cls-1" x="79.49" y="35.78" width="23.51" height="44.78"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-1" x="80.08" y="35.94" width="22.52" height="43.63"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-1" x="97.29" width="15.45" height="39.08"/>
+    </clipPath>
+    <filter id="alpha-6" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-5" x="0" y="-.05" width="881.43" height="216.24" maskUnits="userSpaceOnUse">
+      <g id="mask5">
+        <g class="cls-16">
+          <rect class="cls-76" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-16">
+      <rect class="cls-1" x="96.28" y="-.04" width="16.79" height="39.19"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="cls-1" x="97.35" width="15.33" height="39"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="cls-1" x="97.4" y="59.76" width="15.63" height="38.62"/>
+    </clipPath>
+    <filter id="alpha-7" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-6" x="0" y="-.04" width="881.43" height="216.24" maskUnits="userSpaceOnUse">
+      <g id="mask6">
+        <g class="cls-18">
+          <rect class="cls-74" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-19">
+      <rect class="cls-1" x="96.28" y="59.29" width="16.79" height="39.19"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="cls-1" x="97.4" y="59.76" width="15.63" height="38.62"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="cls-1" x="115.73" y="20.36" width="12.28" height="37.63"/>
+    </clipPath>
+    <filter id="alpha-8" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-7" x="0" y="-.04" width="881.43" height="216.24" maskUnits="userSpaceOnUse">
+      <g id="mask7">
+        <g class="cls-11">
+          <rect class="cls-75" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-22">
+      <rect class="cls-1" x="115.32" y="20.11" width="13.44" height="38.07"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="cls-1" x="115.73" y="20.36" width="12.28" height="37.63"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect class="cls-1" y="144.06" width="2.5" height="8.18"/>
+    </clipPath>
+    <filter id="alpha-9" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-8" x="-4.05" y="-.04" width="885.48" height="216.24" maskUnits="userSpaceOnUse">
+      <g id="mask8">
+        <g class="cls-12">
+          <rect class="cls-78" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-25">
+      <rect class="cls-1" y="143.26" width="3.36" height="10.08"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect class="cls-1" y="144.06" width="2.5" height="8.18"/>
+    </clipPath>
+    <filter id="alpha-10" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <clipPath id="clippath-27">
+      <rect class="cls-1" y="-.04" width="3.36" height="10.08"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect class="cls-1" y=".76" width="2.5" height="8.18"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <path class="cls-1" d="M2.5,8.93C1.25,6.35.4,3.59,0,.76c.12,2.89.98,5.71,2.5,8.18"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect class="cls-1" y="-.04" width="3.36" height="10.08"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect class="cls-1" y=".76" width="2.5" height="8.18"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <path class="cls-1" d="M2.5,8.93C1.25,6.35.4,3.59,0,.76c.12,2.89.98,5.71,2.5,8.18"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <path class="cls-1" d="M2.5,8.93C1.25,6.35.4,3.59,0,.76c.12,2.89.98,5.71,2.5,8.18"/>
+    </clipPath>
+    <linearGradient id="Adsız_degrade_2" data-name="Adsız degrade 2" x1="-1065.87" y1="515.22" x2="-1065.71" y2="515.22" gradientTransform="translate(-15190.15 55995.87) rotate(130.98) scale(49.01)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a5ad0"/>
+      <stop offset=".03" stop-color="#1a5ad0"/>
+      <stop offset=".06" stop-color="#1b5bd1"/>
+      <stop offset=".09" stop-color="#1b5bd2"/>
+      <stop offset=".12" stop-color="#1b5cd3"/>
+      <stop offset=".16" stop-color="#1b5cd4"/>
+      <stop offset=".19" stop-color="#1b5dd5"/>
+      <stop offset=".22" stop-color="#1b5dd6"/>
+      <stop offset=".25" stop-color="#1b5dd7"/>
+      <stop offset=".28" stop-color="#1b5ed8"/>
+      <stop offset=".31" stop-color="#1c5ed9"/>
+      <stop offset=".34" stop-color="#1c5fda"/>
+      <stop offset=".38" stop-color="#1c5fdb"/>
+      <stop offset=".41" stop-color="#1c60dc"/>
+      <stop offset=".44" stop-color="#1c60dd"/>
+      <stop offset=".5" stop-color="#1c60dd"/>
+      <stop offset="1" stop-color="#1c60dd"/>
+    </linearGradient>
+    <clipPath id="clippath-35">
+      <rect class="cls-1" y="-.04" width="3.36" height="10.08"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <rect class="cls-1" y=".76" width="2.5" height="8.18"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <path class="cls-1" d="M2.5,8.93C1.25,6.35.4,3.59,0,.76c.12,2.89.98,5.71,2.5,8.18"/>
+    </clipPath>
+    <mask id="mask-9" x="-4.05" y="-.48" width="11" height="153.96" maskUnits="userSpaceOnUse">
+      <g id="mask9">
+        <g class="cls-71">
+          <g class="cls-39">
+            <g id="surface38-2" data-name="surface38">
+              <g class="cls-40">
+                <g class="cls-41">
+                  <g class="cls-42">
+                    <path class="cls-8" d="M1.08-.48l5.47,4.75L1.43,10.17l-5.48-4.75L1.08-.48Z"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-39">
+      <rect class="cls-1" y="143.26" width="3.36" height="10.08"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <rect class="cls-1" y="144.06" width="2.5" height="8.18"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <path class="cls-1" d="M2.5,152.24c-1.25-2.58-2.09-5.34-2.5-8.18.12,2.89.98,5.71,2.5,8.18"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <path class="cls-1" d="M2.5,152.24c-1.25-2.58-2.09-5.34-2.5-8.18.12,2.89.98,5.71,2.5,8.18"/>
+    </clipPath>
+    <linearGradient id="Adsız_degrade_2-2" data-name="Adsız degrade 2" x1="-1065.64" y1="515.02" x2="-1065.48" y2="515.02" gradientTransform="translate(-15190.15 56123.87) rotate(130.98) scale(49.01)" xlink:href="#Adsız_degrade_2"/>
+    <clipPath id="clippath-43">
+      <rect class="cls-1" x=".05" y="69.88" width="83.25" height="132.24"/>
+    </clipPath>
+    <filter id="alpha-11" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-10" x="-65.42" y="-.04" width="946.85" height="243.37" maskUnits="userSpaceOnUse">
+      <g id="mask10">
+        <g class="cls-72">
+          <rect class="cls-77" y="-.04" width="881.43" height="216.24"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-44">
+      <rect class="cls-1" y="69.37" width="83.97" height="133.23"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <rect class="cls-1" x=".05" y="69.88" width="83.25" height="132.24"/>
+    </clipPath>
+    <filter id="alpha-12" data-name="alpha" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-11" x="-65.42" y="-.04" width="214.18" height="243.37" maskUnits="userSpaceOnUse">
+      <g id="mask11">
+        <g class="cls-73">
+          <image id="image49" class="cls-19" width="75" height="119" transform="translate(0 -.04) scale(1.12)" xlink:href="data:image/png;base64,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"/>
+        </g>
+      </g>
+    </mask>
+    <clipPath id="clippath-46">
+      <rect class="cls-1" y="69.37" width="83.97" height="133.23"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <rect class="cls-1" x=".05" y="69.88" width="83.25" height="132.24"/>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <path class="cls-1" d="M24.87,89.68c-8.19-4.84-14.97-9.61-18.33-13.56-.63-.71-1.19-1.49-1.68-2.31-.06-.52-3.98-3.56-3.87-3.93-.24.24-.7,2.96-.84,4.99l-.11,69.38c.2,4.33,1.05,5.53,2.29,8.12,1.78,2.97,4.08,5.2,6.66,7.29,8.38,5.12,60.02,34.78,74.3,42.46L28.43,91.91l-3.56-2.23Z"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <path class="cls-1" d="M24.87,89.68c-8.19-4.84-14.97-9.61-18.33-13.56-.63-.71-1.19-1.49-1.68-2.31-.06-.52-3.98-3.56-3.87-3.93-.24.24-.7,2.96-.84,4.99l-.11,69.38c.2,4.33,1.05,5.53,2.29,8.12,1.78,2.97,4.08,5.2,6.66,7.29,8.38,5.12,60.02,34.78,74.3,42.46L28.43,91.91"/>
+    </clipPath>
+    <linearGradient id="Adsız_degrade_7" data-name="Adsız degrade 7" x1="-1067.86" y1="514.97" x2="-1064.71" y2="514.97" gradientTransform="translate(-15174.4 56136.6) rotate(130.98) scale(49.01)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".25" stop-color="#000"/>
+      <stop offset=".38" stop-color="#000"/>
+      <stop offset=".44" stop-color="#000"/>
+      <stop offset=".44" stop-color="#000102"/>
+      <stop offset=".45" stop-color="#010205"/>
+      <stop offset=".45" stop-color="#010308"/>
+      <stop offset=".45" stop-color="#01050b"/>
+      <stop offset=".46" stop-color="#02060e"/>
+      <stop offset=".46" stop-color="#020711"/>
+      <stop offset=".46" stop-color="#020914"/>
+      <stop offset=".47" stop-color="#030a17"/>
+      <stop offset=".47" stop-color="#030b1a"/>
+      <stop offset=".48" stop-color="#040c1d"/>
+      <stop offset=".48" stop-color="#040e20"/>
+      <stop offset=".48" stop-color="#040f23"/>
+      <stop offset=".49" stop-color="#051026"/>
+      <stop offset=".49" stop-color="#051229"/>
+      <stop offset=".5" stop-color="#06132c"/>
+      <stop offset=".5" stop-color="#06142f"/>
+      <stop offset=".5" stop-color="#061632"/>
+      <stop offset=".51" stop-color="#071735"/>
+      <stop offset=".51" stop-color="#071838"/>
+      <stop offset=".52" stop-color="#07193b"/>
+      <stop offset=".52" stop-color="#081b3e"/>
+      <stop offset=".52" stop-color="#081c41"/>
+      <stop offset=".53" stop-color="#091d44"/>
+      <stop offset=".53" stop-color="#091f47"/>
+      <stop offset=".54" stop-color="#09204a"/>
+      <stop offset=".54" stop-color="#0a214d"/>
+      <stop offset=".54" stop-color="#0a2350"/>
+      <stop offset=".55" stop-color="#0a2453"/>
+      <stop offset=".55" stop-color="#0b2556"/>
+      <stop offset=".55" stop-color="#0b2659"/>
+      <stop offset=".56" stop-color="#0c285c"/>
+      <stop offset=".56" stop-color="#0c295f"/>
+      <stop offset=".57" stop-color="#0c2a62"/>
+      <stop offset=".57" stop-color="#0d2c65"/>
+      <stop offset=".57" stop-color="#0d2d68"/>
+      <stop offset=".58" stop-color="#0e2e6b"/>
+      <stop offset=".58" stop-color="#0e306e"/>
+      <stop offset=".59" stop-color="#0e3171"/>
+      <stop offset=".59" stop-color="#0f3274"/>
+      <stop offset=".59" stop-color="#0f3477"/>
+      <stop offset=".6" stop-color="#0f357a"/>
+      <stop offset=".6" stop-color="#10367d"/>
+      <stop offset=".61" stop-color="#103780"/>
+      <stop offset=".61" stop-color="#113983"/>
+      <stop offset=".61" stop-color="#113a86"/>
+      <stop offset=".62" stop-color="#113b89"/>
+      <stop offset=".62" stop-color="#123d8c"/>
+      <stop offset=".62" stop-color="#123e8f"/>
+      <stop offset=".63" stop-color="#123f92"/>
+      <stop offset=".63" stop-color="#134195"/>
+      <stop offset=".64" stop-color="#134298"/>
+      <stop offset=".64" stop-color="#14439b"/>
+      <stop offset=".64" stop-color="#14449e"/>
+      <stop offset=".65" stop-color="#1446a1"/>
+      <stop offset=".65" stop-color="#1547a4"/>
+      <stop offset=".66" stop-color="#1548a7"/>
+      <stop offset=".66" stop-color="#154aaa"/>
+      <stop offset=".66" stop-color="#164bad"/>
+      <stop offset=".67" stop-color="#164cb0"/>
+      <stop offset=".67" stop-color="#174eb3"/>
+      <stop offset=".68" stop-color="#174fb6"/>
+      <stop offset=".68" stop-color="#1750b9"/>
+      <stop offset=".68" stop-color="#1851bc"/>
+      <stop offset=".69" stop-color="#1853bf"/>
+      <stop offset=".69" stop-color="#1954c2"/>
+      <stop offset=".7" stop-color="#1955c5"/>
+      <stop offset=".7" stop-color="#1957c8"/>
+      <stop offset=".7" stop-color="#1a58cb"/>
+      <stop offset=".71" stop-color="#1a59ce"/>
+      <stop offset=".71" stop-color="#1a5bd1"/>
+      <stop offset=".71" stop-color="#1b5cd4"/>
+      <stop offset=".72" stop-color="#1b5dd7"/>
+      <stop offset=".72" stop-color="#1c5fda"/>
+      <stop offset=".73" stop-color="#1c60dd"/>
+      <stop offset=".73" stop-color="#1c60dd"/>
+      <stop offset=".75" stop-color="#1c60dd"/>
+      <stop offset="1" stop-color="#1c60dd"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="surface1">
+      <g class="cls-81">
+        <g class="cls-2">
+          <g class="cls-61">
+            <g id="surface7">
+              <g class="cls-64">
+                <path class="cls-5" d="M.73,85.69l5.78-22.12,40.71-23.56v29.52L.73,98.84"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="cls-62">
+        <g class="cls-26">
+          <g class="cls-63">
+            <g id="surface10">
+              <g class="cls-69">
+                <path class="cls-5" d="M20,86.47l45.83-28.5v23.41s-.7,7.72-4.05,9.16c-2.48,1.01-41.78,24.27-41.78,24.27"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="cls-66">
+        <g class="cls-20">
+          <g class="cls-65">
+            <g id="surface13">
+              <g class="cls-68">
+                <path class="cls-5" d="M44.96,100.3l40.75-24.01v23.4s0,6.47-4.05,8.75c-2.61,1.4-36.69,21.23-36.69,21.23"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="cls-67">
+        <g class="cls-21">
+          <g class="cls-34">
+            <g id="surface16">
+              <g class="cls-31">
+                <path class="cls-5" d="M61.84,31.65l22.4-14.44v29.51l-22.38,13.7-.02-28.76Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="cls-38">
+        <g class="cls-22">
+          <g class="cls-36">
+            <g id="surface19">
+              <g class="cls-37">
+                <path class="cls-5" d="M80.09,49.23l22.51-13.3v30.55l-22.52,13.08v-30.33Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="cls-35">
+        <g class="cls-23">
+          <g class="cls-32">
+            <g id="surface22">
+              <g class="cls-29">
+                <path class="cls-5" d="M97.35,9.34L112.68-.05v20.35s0,10.18-4.05,12.22c-.78.41-11.2,6.48-11.2,6.48"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="cls-33">
+        <g class="cls-25">
+          <g class="cls-30">
+            <g id="surface25">
+              <g class="cls-45">
+                <path class="cls-5" d="M97.75,68.93l15.27-9.17-.35,23.38s.35,6.17-4.05,9.16c-1.01.91-11.42,5.97-11.24,6.07.18.1.3-30.28.36-29.45"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="cls-46">
+        <g class="cls-24">
+          <g class="cls-47">
+            <g id="surface29">
+              <g class="cls-48">
+                <path class="cls-5" d="M115.73,28.44l12.22-8.09s.12,12.13,0,20.35c-.09,2.5-.67,4.95-1.71,7.22-1.04,2.27-2.52,4.31-4.36,6.01,0,0-6.32,3.94-6.13,4.05s-.02-29.54-.02-29.54"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path class="cls-4" d="M47.22,39.99c-.19.39-37.37,18.85-43.01,25.18,2.87-2.43-2.44,2.4-3.05,9.65l1.77,68.24s-2.84,11.81,11.13,19.84c9.96,5.72,67.56,38.43,74.63,41.75,7.07,3.33,8.9-1.93,8.9-1.93v-66.24c-.15-.18,2.11-10.47-10.01-18.22-2.33-2.02-76.96-36.02-80.14-46.72-3.4-11.5,39.79-28.58,39.79-31.55"/>
+      <path class="cls-7" d="M94.1,135.89l3.63-2.63v70.56s-1.75,3.52-3.63,3.86c-.22-.11,0-71.8,0-71.8"/>
+      <path class="cls-10" d="M4.87,73.86c.52.82,1.11,1.59,1.77,2.3-.75-.82-1.37-1.75-1.86-2.75-4.4-11.35,27.49-24.1,40.78-32.63,0,0-32.25,16.02-38.65,21.6-5.65,4.93-6.06,7.92-6.06,7.92l-.68,4.17c.14-2.02.19-3.83.68-4.17-.06.35,3.97,3.02,4.02,3.55"/>
+      <path class="cls-10" d="M84.17,121.07c-2.62-2.21-36.07-17.51-59.2-31.34,1.37.87,2.6,1.63,3.56,2.27l54.79,110.18c1.15.61,2.02,1.1,2.69,1.41l8.1,4.05v-70.77c-.1-.08.8-9.85-9.94-15.78"/>
+      <g class="cls-49">
+        <g class="cls-28">
+          <g class="cls-50">
+            <g id="surface42">
+              <g class="cls-44">
+                <g class="cls-27">
+                  <g class="cls-43">
+                    <g id="surface38-4" data-name="surface38">
+                      <g class="cls-57">
+                        <g class="cls-51">
+                          <g class="cls-52">
+                            <path class="cls-3" d="M1.08,142.83l5.47,4.75-5.12,5.9-5.48-4.75,5.13-5.9Z"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path class="cls-10" d="M24.96,89.73c-8.19-4.85-14.97-9.62-18.33-13.56-.66-.71-1.25-1.48-1.77-2.3-.06-.53-3.97-3.57-3.87-3.93-.49.35-.81,2.48-.95,4.52l.1,69.6c.4,5.16.8,5.35,2.16,8.2,2,3.1,2.99,4.28,6.56,7.46,8.38,5.12,60.24,34.78,74.51,42.46L28.52,91.96"/>
+      <g class="cls-53">
+        <g class="cls-79">
+          <g class="cls-54">
+            <g id="surface40">
+              <g class="cls-55">
+                <g class="cls-80">
+                  <g class="cls-58">
+                    <g id="surface51">
+                      <g class="cls-59">
+                        <g class="cls-60">
+                          <g class="cls-56">
+                            <path class="cls-9" d="M35.85,28.67l112.91,98.08-101.27,116.58-112.92-98.08L35.85,28.67Z"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path class="cls-6" d="M82.3,149.75l-11.38-7.03c-2.02-1.17-3.97-.42-2.97,1.66v18.91c.49.7,1.47,2.97,1.01,4.11-1.63-.08,6.48,6.72,11.06,9.28,1.33.75,3.82,1.06,3.63-2.02v-22.46c0-.49-.11-.97-.35-1.4-.24-.42-.57-.79-.99-1.05"/>
+      <path class="cls-4" d="M81.82,150.88c-1.77-2.21-7.69-5.59-11.71-8.49-1.01-.74-2.77-.21-2.75,1.01.25,14.31.31,20.89,1.13,23.69.61,2.14,7.32,6.63,11.13,9.16,1.13.77,2.66.95,2.71-.43.21-6.02,0-19.97,0-23.54-.02-.52-.2-1.01-.52-1.41"/>
+    </g>
+  </g>
+</svg>
